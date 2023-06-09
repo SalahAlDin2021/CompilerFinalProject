@@ -1,0 +1,7 @@
+project salah ;
+const somename=5;somename2=15;somename3=25;
+begin 
+nam:=10*someNumber;
+if a=>52134 then pi:=3 endif ;
+begin expres:= weight+10; end ;
+end .
